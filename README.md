@@ -1,0 +1,3 @@
+Pick-A-Movie is an innovative movie recommendation system that leverages cutting-edge content-based filtering algorithms to curate personalized movie recommendations for each user. Built on a foundation of sophisticated content analysis, this system takes into account the unique preferences of users, ensuring a seamless blend of their cinematic tastes with the vast world of movies.
+
+This project uses "Cosine Similarity" algorithm, items or documents with a higher cosine similarity are considered more similar, and this metric is often used to suggest movies that are likely to be of interest to a user based on their historical preferences.
